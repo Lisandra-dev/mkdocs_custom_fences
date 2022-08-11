@@ -2,6 +2,9 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.2 (2022-08-11)
+
+
 ## v0.1.1 (2022-07-17)
 ### Fix
 * Requirements crash ([`0854fea`](https://github.com/Mara-Li/mkdocs_custom_fences/commit/0854fea5c0952e855ed971113a567ff99eec3aff))
